@@ -1,4 +1,4 @@
-#Startup Components- Free Bootstrap UI Components
+# Startup Components- Free Bootstrap UI Components
 Startup Components is Bootstrap UI Library that comes with hundreds of essential UI components, blocks, pages, and templates. It consists of UI library, essential components and a minimal design system. Free Core version comes with all essential core components, 40+ ready-to-use UI components and assets that you need to get started afresh web project.
 
 ### [🚀 Browse Components](https://startup-components.hau.xyz/)
